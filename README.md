@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/guddu-kumar-698495201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/guddu-kumar-698495201" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/iamguddu_9122" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/iamguddu_9122" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/guddu-kumar-698495201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/guddu-kumar-698495201" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/iamguddu_9122" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/iamguddu_9122" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/_91gudddu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_91gudddu/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/guddukumar2822002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/guddukumar2822002/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/guddukumar2822002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/guddukumar2822002/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
